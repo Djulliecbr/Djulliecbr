@@ -12,9 +12,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Djulliecbr/Djulliecbr/output/snake.svg" alt="Snake animation" />
-
-![snake_gif](https://github.com/Djulliecbr/Djulliecbr/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Djulliecbr/Djulliecbr/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
