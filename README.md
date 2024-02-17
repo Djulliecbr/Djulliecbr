@@ -21,13 +21,6 @@
 
 ###
 
-<div align="center">
-  <img scr="https://github.com/1999AZZAR/blob/main/resources/img/grig-snake.svg"
-    alt="snake" /></a>
-</div>
-
-###
-
 #### Linguagem de Programação
 <div align="left">
   <img width="12" />
