@@ -18,29 +18,30 @@
 
 #### Linguagem de Programação
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<div align="right">
-  <img height="140" src="https://photos.fife.usercontent.google.com/pw/ABLVV85KsGXlFhcDUz66sdXYeW4xkcrKz66Jm_T8vUgxWv5k46oWEq_67POh-g=w913-h913-s-no-gm?authuser=0"  />
+#### Ferramenta Utilizadas
+<div align="left">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
- 
+
+###
+
 <div> 
   <a href="https://wa.me/5583987227810" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/D7MzaN4TMm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:djulliecbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/djullie-caroline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/djullie-caroline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<img align="right" height="150" src="https://photos.fife.usercontent.google.com/pw/ABLVV85KsGXlFhcDUz66sdXYeW4xkcrKz66Jm_T8vUgxWv5k46oWEq_67POh-g=w913-h913-s-no-gm?authuser=0"/>
+<img align="right" height="150" src="https://lh3.googleusercontent.com/pw/ABLVV86TvUuCwrIeic2ambVbi186rPLDMFuOb-hF7_3kazgLgFFRznZ6OPzvUJSzL7-1srJU4_19iFSstbmXcZDIGc54PlGKTNNpJv6lhDem_2d471abK3L-NQZK-ExVIR8Y3z2URnC6b1TSU0hzW9qqagCTXg=w618-h913-s-no-gm?authuser=0)https://lh3.googleusercontent.com/pw/ABLVV86TvUuCwrIeic2ambVbi186rPLDMFuOb-hF7_3kazgLgFFRznZ6OPzvUJSzL7-1srJU4_19iFSstbmXcZDIGc54PlGKTNNpJv6lhDem_2d471abK3L-NQZK-ExVIR8Y3z2URnC6b1TSU0hzW9qqagCTXg=w618-h913-s-no-gm?authuser=0"/>
 
 ###
