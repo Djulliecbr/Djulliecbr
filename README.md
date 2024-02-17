@@ -1,5 +1,14 @@
 # <h2 align="left">Olá, eu me chamo Djullie Caroline, sou Desenvolvedora de Banco de Dados!🧑🏻‍💻</h2>
 ---
+
+<p>
+     A passionate Data Science student from Brazil.
+
+  -  I’m currently studying Data Science at Alpha Edtech!
+
+  -  I am looking for my first job opportunity.
+</p>
+
 ###
 
 <div align="left">
@@ -12,7 +21,10 @@
 
 ###
 
-![snake gif](https://github.com/Djulliecbr/Djulliecbr/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img scr="https://github.com/1999AZZAR/blob/main/resources/img/grig-snake.svg"
+    alt="snake" /></a>
+</div>
 
 ###
 
