@@ -2,8 +2,8 @@
  ---
 <div>
 <a href="https://github.com/Djulliecbr">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Djulliecbr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djulliecbr&layout=compact&langs_count=16&theme=gruvbox"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Djulliecbr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djulliecbr&layout=compact&langs_count=16&theme=gruvbox"/>
 <imag align"rigth" alt="Djullie-dev" src=""/>
 </div>
 
