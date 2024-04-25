@@ -1,10 +1,10 @@
-# <h2 align="left">Olá, eu me chamo Djullie Caroline, sou Desenvolvedora de Banco de Dados!🧑🏻‍💻</h2>
+# <h2 align="left">Olá, eu me chamo Djullie Caroline, sou Especialista em Banco de Dados!🧑🏻‍💻</h2>
 ---
 
 <p>
      A passionate Data Science student from Brazil.
 
-  -  I’m currently studying Data Science at Alpha Edtech!
+  -  I’m currently studying Data Science at Alpha Edtech and Faculdade Descomplica!
 
   -  I am looking for my first job opportunity.
 </p>
@@ -31,11 +31,6 @@
 <div align="left">
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
 ###
